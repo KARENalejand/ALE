@@ -1,4 +1,4 @@
-import cv2# libreria  open cv
+rimport cv2# libreria  open cv
 import numpy as np#libreria numpy
 cap = cv2.VideoCapture(0)#activamos camara
 redBajo1 = np.array([80, 100, 20], np.uint8)#se estable una varible,con una matriz
